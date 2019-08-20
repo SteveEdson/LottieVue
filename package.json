@@ -1,0 +1,29 @@
+{
+  "name": "lottievue",
+  "version": "1.0.0",
+  "description": "A Vue wrapper for Lottie web",
+  "main": "src/Lottie.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveEdson/LottieVue.git"
+  },
+  "keywords": [
+    "lottie",
+    "vue",
+    "js",
+    "bodymovin",
+    "animation"
+  ],
+  "author": "Steve Edson <steve3d50n@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveEdson/LottieVue/issues"
+  },
+  "homepage": "https://github.com/SteveEdson/LottieVue#readme",
+  "dependencies": {
+    "lottie-web": "^5.5.7"
+  }
+}
